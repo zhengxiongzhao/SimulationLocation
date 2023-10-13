@@ -5,7 +5,10 @@
 macOS 版本对应的 Xcode 版本 [macos-xcode-version](https://uovol.com/macos-xcode-version)
 
 使用 macOS 解压 xip 文件
-xip -x Xcode_13.xip
+
+```bash
+$ xip -x Xcode_13.xip
+```
 
 在解压出来的 Xcode.app 中删除不必要的平台
 
